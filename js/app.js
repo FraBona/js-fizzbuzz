@@ -1,4 +1,4 @@
-for(i = 0; i < 100; i++){
+for(let i = 0; i < 100; i++){
   let n = i + 1;
 
   const n3 = n % 3;
